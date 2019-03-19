@@ -1,0 +1,21 @@
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Release\nonogram.exe.config
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Release\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Release\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Release\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Release\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Release\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Release\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\bin\Release\nonogram.exe.config
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\bin\Release\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\bin\Release\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\obj\Release\nonogram.csprojAssemblyReference.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\obj\Release\nonogram.csproj.CoreCompileInputs.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\obj\Release\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram - 期中考前版本\nonogram\obj\Release\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\bin\Release\nonogram.exe.config
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\bin\Release\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\bin\Release\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\obj\Release\nonogram.csprojAssemblyReference.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\obj\Release\nonogram.csproj.CoreCompileInputs.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\obj\Release\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能運算\nonogram - 最後\nonogram\obj\Release\nonogram.pdb

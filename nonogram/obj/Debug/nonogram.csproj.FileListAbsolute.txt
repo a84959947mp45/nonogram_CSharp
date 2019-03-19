@@ -1,0 +1,73 @@
+C:\Users\a8495\source\repos\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\a8495\source\repos\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\a8495\source\repos\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\a8495\source\repos\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\source\repos\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\source\repos\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\a8495\source\repos\nonogram\nonogram\obj\Debug\nonogram.pdb
+D:\人工智慧\nonogram\nonogram\bin\Debug\nonogram.exe.config
+D:\人工智慧\nonogram\nonogram\obj\Debug\nonogram.exe
+D:\人工智慧\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\Rukusu\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\Terrence\Desktop\勃勃程式肉便器\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\a8495\Desktop\勃勃程式肉便器\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\Rukusu\Desktop\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\Rukusu\Desktop\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\Rukusu\Desktop\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\bin\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\bin\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\obj\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram\nonogram\nonogram\obj\Debug\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\bin\Debug\nonogram.exe.config
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\bin\Debug\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\bin\Debug\nonogram.pdb
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\obj\Debug\nonogram.exe
+D:\Users\Rukusu\Desktop\資訊工程\資工課程\高效能\nonogram\nonogram\nonogram\obj\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\bin\Debug\nonogram.pdb
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.exe
+C:\Users\Rukusu\Desktop\nonogram - DEMO\nonogram\obj\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Debug\nonogram.exe.config
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\bin\Debug\nonogram.pdb
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Debug\nonogram.csprojAssemblyReference.cache
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Debug\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Debug\nonogram.exe
+C:\Users\a8495\Desktop\nonogram - X\nonogram - X\nonogram\obj\Debug\nonogram.pdb
